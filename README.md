@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="480" height="480" alt="AI Phishing Email Detector Logo" src="https://github.com/user-attachments/assets/d80dc17f-31d6-48c9-90f1-0eab2123dce5" />
+  <img width="480" height="480" alt="AI Phishing Email Detector Logo" src="<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/00d8d340-b959-452c-bce9-344e8d331e1d" />
+" />
   <h1>AI Phishing Email Detector</h1>
   <p style="font-size: 16px; color: #333;">
     A machine learning-powered phishing detection system built with a locally hosted <a href="https://ollama.ai">DeepSeek LLM</a> on Ollama. Utilizes NLP to analyze email content, sender behavior, and metadata, achieving <strong>over 95% accuracy</strong> in real-time phishing detection. Privacy-focused, lightweight, and integrated with Postfix for secure email processing.
