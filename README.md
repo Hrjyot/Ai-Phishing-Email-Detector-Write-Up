@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="480" height="480" alt="AI Phishing Email Detector Logo" src="<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/69efe860-319e-489c-9aec-978f3dabf9b5"/>
-/>
+  <img width="480" height="480" alt="AI Phishing Email Detector Logo" src="<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/92d509e1-9658-44ce-a68c-d626f29d8835" />
+" />
+</div>
 " />
   <h1>AI Phishing Email Detector</h1>
   <p style="font-size: 16px; color: #333;">
